@@ -1,6 +1,4 @@
-### Hi, I'm Peter!
-
-## I'm a student at the University of Chicago looking to learn more about computer science!
+### Hi, I'm Peter! I'm a student at the University of Chicago looking to learn more about computer science!
 
 <!--
 **pkasner/pkasner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
